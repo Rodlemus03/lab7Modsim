@@ -1,0 +1,4 @@
+Explicacion del prompt: "Ayudame a ordenar y el codigo, y darle una revisada a la logica. Si todo esta bien, no hagamos cambios" 
+
+Se pidio el prompt, SOLAMENTE PARA ORGANIZAR LA VISUALIZACION DEL CODIGO. Como la logica estaba correcta, no se raelizaron cambios, solamente se implemento el metodo if __name__=="__main__", para la llamada 
+principal del sistema, y se ordenaron las variables en MAYUSCULA. SOLAMENTE. 
